@@ -2,7 +2,10 @@
 *.code-workspace
 .env
 .DS_Store
-.vscode
 /extra/ssl/certbot
 /extra/ssl/nginx*
 /extra/ssl/dhparam.pem
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
